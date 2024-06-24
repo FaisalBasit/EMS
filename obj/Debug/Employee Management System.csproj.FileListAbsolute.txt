@@ -1,0 +1,168 @@
+D:\sir syed(3)\4rd Semester\DBMS Project\Employee Management System\bin\Debug\Employee Management System.exe.config
+D:\sir syed(3)\4rd Semester\DBMS Project\Employee Management System\bin\Debug\Employee Management System.exe
+D:\sir syed(3)\4rd Semester\DBMS Project\Employee Management System\bin\Debug\Employee Management System.pdb
+D:\sir syed(3)\4rd Semester\DBMS Project\Employee Management System\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+D:\sir syed(3)\4rd Semester\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Main.resources
+D:\sir syed(3)\4rd Semester\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+D:\sir syed(3)\4rd Semester\DBMS Project\Employee Management System\obj\Debug\Employee Management System.csproj.GenerateResource.cache
+D:\sir syed(3)\4rd Semester\DBMS Project\Employee Management System\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+D:\sir syed(3)\4rd Semester\DBMS Project\Employee Management System\obj\Debug\Employee Management System.exe
+D:\sir syed(3)\4rd Semester\DBMS Project\Employee Management System\obj\Debug\Employee Management System.pdb
+D:\sir syed(3)\4rd Semester\DBMS Project1\DBMS Project\Employee Management System\bin\Debug\Employee Management System.exe.config
+D:\sir syed(3)\4rd Semester\DBMS Project1\DBMS Project\Employee Management System\bin\Debug\Employee Management System.exe
+D:\sir syed(3)\4rd Semester\DBMS Project1\DBMS Project\Employee Management System\bin\Debug\Employee Management System.pdb
+D:\sir syed(3)\4rd Semester\DBMS Project1\DBMS Project\Employee Management System\bin\Debug\Guna.UI.dll
+D:\sir syed(3)\4rd Semester\DBMS Project1\DBMS Project\Employee Management System\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+D:\sir syed(3)\4rd Semester\DBMS Project1\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Main.resources
+D:\sir syed(3)\4rd Semester\DBMS Project1\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+D:\sir syed(3)\4rd Semester\DBMS Project1\DBMS Project\Employee Management System\obj\Debug\Employee Management System.csproj.GenerateResource.cache
+D:\sir syed(3)\4rd Semester\DBMS Project1\DBMS Project\Employee Management System\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+D:\sir syed(3)\4rd Semester\DBMS Project1\DBMS Project\Employee Management System\obj\Debug\Employee Management System.csproj.CopyComplete
+D:\sir syed(3)\4rd Semester\DBMS Project1\DBMS Project\Employee Management System\obj\Debug\Employee Management System.exe
+D:\sir syed(3)\4rd Semester\DBMS Project1\DBMS Project\Employee Management System\obj\Debug\Employee Management System.pdb
+D:\sir syed(3)\4rd Semester\DBMS Project1\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Dashboard.resources
+D:\sir syed(3)\4rd Semester\DBMS Project111\DBMS Project\Employee Management System\bin\Debug\Employee Management System.exe.config
+D:\sir syed(3)\4rd Semester\DBMS Project111\DBMS Project\Employee Management System\bin\Debug\Employee Management System.exe
+D:\sir syed(3)\4rd Semester\DBMS Project111\DBMS Project\Employee Management System\bin\Debug\Employee Management System.pdb
+D:\sir syed(3)\4rd Semester\DBMS Project111\DBMS Project\Employee Management System\bin\Debug\Guna.UI.dll
+D:\sir syed(3)\4rd Semester\DBMS Project111\DBMS Project\Employee Management System\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+D:\sir syed(3)\4rd Semester\DBMS Project111\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Dashboard.resources
+D:\sir syed(3)\4rd Semester\DBMS Project111\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Main.resources
+D:\sir syed(3)\4rd Semester\DBMS Project111\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+D:\sir syed(3)\4rd Semester\DBMS Project111\DBMS Project\Employee Management System\obj\Debug\Employee Management System.csproj.GenerateResource.cache
+D:\sir syed(3)\4rd Semester\DBMS Project111\DBMS Project\Employee Management System\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+D:\sir syed(3)\4rd Semester\DBMS Project111\DBMS Project\Employee Management System\obj\Debug\Employee Management System.csproj.CopyComplete
+D:\sir syed(3)\4rd Semester\DBMS Project111\DBMS Project\Employee Management System\obj\Debug\Employee Management System.exe
+D:\sir syed(3)\4rd Semester\DBMS Project111\DBMS Project\Employee Management System\obj\Debug\Employee Management System.pdb
+D:\sir syed(3)\4rd Semester\DBMS Project111\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.AddEmployee.resources
+D:\sir syed(3)\4rd Semester\DBMS Project111\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Salary.resources
+D:\sir syed(3)\4rd Semester\DBMS Project111\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.signin.resources
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\bin\Debug\Employee Management System.exe.config
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\bin\Debug\Employee Management System.exe
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\bin\Debug\Employee Management System.pdb
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.AddEmployee.resources
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Dashboard.resources
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Main.resources
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Salary.resources
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.signin.resources
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\obj\Debug\Employee Management System.csproj.GenerateResource.cache
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\obj\Debug\Employee Management System.csproj.CopyComplete
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\obj\Debug\Employee Management System.exe
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\obj\Debug\Employee Management System.pdb
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\bin\Debug\DevExpress.Data.v23.1.dll
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\bin\Debug\DevExpress.Drawing.v23.1.dll
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\bin\Debug\DevExpress.Utils.v23.1.dll
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\bin\Debug\DevExpress.Data.v23.1.xml
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\bin\Debug\DevExpress.Drawing.v23.1.xml
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\bin\Debug\DevExpress.Utils.v23.1.xml
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Project.resources
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Project_emp.resources
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+D:\WORK\Projects\DBMS Project111\DBMS Project111\DBMS Project\Employee Management System\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+D:\sir syed(3)\4rd Semester\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\Employee Management System.exe.config
+D:\sir syed(3)\4rd Semester\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\Employee Management System.exe
+D:\sir syed(3)\4rd Semester\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\Employee Management System.pdb
+D:\sir syed(3)\4rd Semester\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+D:\sir syed(3)\4rd Semester\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+D:\sir syed(3)\4rd Semester\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+D:\sir syed(3)\4rd Semester\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Data.v23.1.xml
+D:\sir syed(3)\4rd Semester\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Drawing.v23.1.xml
+D:\sir syed(3)\4rd Semester\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+D:\sir syed(3)\4rd Semester\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+D:\sir syed(3)\4rd Semester\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Utils.v23.1.xml
+D:\sir syed(3)\4rd Semester\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+D:\sir syed(3)\4rd Semester\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+D:\sir syed(3)\4rd Semester\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+D:\sir syed(3)\4rd Semester\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+D:\sir syed(3)\4rd Semester\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.AddEmployee.resources
+D:\sir syed(3)\4rd Semester\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Dashboard.resources
+D:\sir syed(3)\4rd Semester\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Main.resources
+D:\sir syed(3)\4rd Semester\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Project.resources
+D:\sir syed(3)\4rd Semester\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Project_emp.resources
+D:\sir syed(3)\4rd Semester\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+D:\sir syed(3)\4rd Semester\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Salary.resources
+D:\sir syed(3)\4rd Semester\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.signin.resources
+D:\sir syed(3)\4rd Semester\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee Management System.csproj.GenerateResource.cache
+D:\sir syed(3)\4rd Semester\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+D:\sir syed(3)\4rd Semester\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee Management System.csproj.CopyComplete
+D:\sir syed(3)\4rd Semester\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee Management System.exe
+D:\sir syed(3)\4rd Semester\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee Management System.pdb
+D:\sir syed(3)\4rd Semester\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Project_mgr.resources
+D:\sir syed(3)\4rd Semester\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\Employee Management System.exe.config
+D:\sir syed(3)\4rd Semester\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\Employee Management System.exe
+D:\sir syed(3)\4rd Semester\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\Employee Management System.pdb
+D:\sir syed(3)\4rd Semester\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+D:\sir syed(3)\4rd Semester\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+D:\sir syed(3)\4rd Semester\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+D:\sir syed(3)\4rd Semester\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Data.v23.1.xml
+D:\sir syed(3)\4rd Semester\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Drawing.v23.1.xml
+D:\sir syed(3)\4rd Semester\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+D:\sir syed(3)\4rd Semester\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+D:\sir syed(3)\4rd Semester\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Utils.v23.1.xml
+D:\sir syed(3)\4rd Semester\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+D:\sir syed(3)\4rd Semester\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+D:\sir syed(3)\4rd Semester\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+D:\sir syed(3)\4rd Semester\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+D:\sir syed(3)\4rd Semester\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.AddEmployee.resources
+D:\sir syed(3)\4rd Semester\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Dashboard.resources
+D:\sir syed(3)\4rd Semester\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Main.resources
+D:\sir syed(3)\4rd Semester\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Project.resources
+D:\sir syed(3)\4rd Semester\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Project_emp.resources
+D:\sir syed(3)\4rd Semester\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Project_mgr.resources
+D:\sir syed(3)\4rd Semester\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+D:\sir syed(3)\4rd Semester\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Salary.resources
+D:\sir syed(3)\4rd Semester\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.signin.resources
+D:\sir syed(3)\4rd Semester\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee Management System.csproj.GenerateResource.cache
+D:\sir syed(3)\4rd Semester\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+D:\sir syed(3)\4rd Semester\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee Management System.csproj.CopyComplete
+D:\sir syed(3)\4rd Semester\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee Management System.exe
+D:\sir syed(3)\4rd Semester\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee Management System.pdb
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\Employee Management System.exe.config
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\Employee Management System.exe
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\Employee Management System.pdb
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.AddEmployee.resources
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Dashboard.resources
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Main.resources
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Project.resources
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Project_emp.resources
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Project_mgr.resources
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.Salary.resources
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee_Management_System.signin.resources
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee Management System.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee Management System.csproj.CopyComplete
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee Management System.exe
+C:\Users\PC\Downloads\EMS (DBMS Project)\EMS (DBMS)\DBMS Project\DBMS Project\Employee Management System\obj\Debug\Employee Management System.pdb
