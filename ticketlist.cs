@@ -105,17 +105,7 @@ namespace Employee_Management_System
                         updateCmd.Parameters.AddWithValue("@TICKET_ID", ticket_id);
 
                         int rowsAffected = updateCmd.ExecuteNonQuery();
-                        // Uncomment the following block for a success/failure message
-                        /*
-                        if (rowsAffected > 0)
-                        {
-                            MessageBox.Show("Ticket status updated successfully.", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                        }
-                        else
-                        {
-                            MessageBox.Show("Failed to update ticket status.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                        }
-                        */
+                       
                     }
                 }
                 catch (Exception ex)
@@ -144,17 +134,7 @@ namespace Employee_Management_System
                     using (SqlCommand updateCmd = new SqlCommand(updateData, con))
                     {
                         int rowsAffected = updateCmd.ExecuteNonQuery();
-                        // Uncomment the following block for a success/failure message
-                        /*
-                        if (rowsAffected > 0)
-                        {
-                            MessageBox.Show("Project counts updated successfully.", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                        }
-                        else
-                        {
-                            MessageBox.Show("Failed to update project counts.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                        }
-                        */
+                        
                     }
                 }
                 catch (Exception ex)

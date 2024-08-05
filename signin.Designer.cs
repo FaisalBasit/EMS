@@ -177,11 +177,12 @@
             this.password.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.password.Location = new System.Drawing.Point(31, 234);
             this.password.Name = "password";
-            this.password.PasswordChar = '\0';
+            //this.password.PasswordChar = '●'; // Set the PasswordChar property to mask the input
             this.password.Radius = 10;
             this.password.Size = new System.Drawing.Size(233, 27);
             this.password.TabIndex = 1;
             this.password.Click += new System.EventHandler(this.password_Click);
+
             // 
             // EmployeeID
             // 

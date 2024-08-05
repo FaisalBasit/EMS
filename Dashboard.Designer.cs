@@ -309,7 +309,7 @@ namespace Employee_Management_System
             this.gunaElipsePanel5.Location = new System.Drawing.Point(248, 39);
             this.gunaElipsePanel5.Name = "gunaElipsePanel5";
             this.gunaElipsePanel5.Radius = 15;
-            this.gunaElipsePanel5.Size = new System.Drawing.Size(197, 221);
+            this.gunaElipsePanel5.Size = new System.Drawing.Size(200, 221);
             this.gunaElipsePanel5.TabIndex = 4;
             // 
             // label1
@@ -318,7 +318,7 @@ namespace Employee_Management_System
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(52, 20);
+            this.label1.Location = new System.Drawing.Point(47, 28);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(107, 19);
             this.label1.TabIndex = 3;
@@ -357,7 +357,7 @@ namespace Employee_Management_System
             this.Department_display.EnableHeadersVisualStyles = false;
             this.Department_display.GridColor = System.Drawing.Color.Black;
             this.Department_display.ImeMode = System.Windows.Forms.ImeMode.Disable;
-            this.Department_display.Location = new System.Drawing.Point(12, 64);
+            this.Department_display.Location = new System.Drawing.Point(13, 64);
             this.Department_display.Name = "Department_display";
             this.Department_display.ReadOnly = true;
             dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;

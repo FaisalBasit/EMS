@@ -48,7 +48,7 @@ namespace Employee_Management_System
                 try
                 {
                     con.Open();
-                    string selectData = "SELECT * FROM emp WHERE position = 'Project Manager'";
+                    string selectData = "SELECT * FROM emp WHERE position = 'Project Manager' AND delete_date IS NULL AND status = 'Active'";
                     using (SqlCommand cmd = new SqlCommand(selectData, con))
                     {
                         SqlDataReader reader = cmd.ExecuteReader();

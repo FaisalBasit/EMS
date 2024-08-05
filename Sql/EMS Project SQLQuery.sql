@@ -140,6 +140,8 @@ SELECT * from proj;
 SELECT * from ticket;
 SELECT * from emp;
 
+SELECT * FROM emp WHERE (position = 'Project Manager' OR position = 'HR Manager' OR position = 'President') AND delete_date IS NULL;
+SELECT * FROM emp WHERE position = 'Project Manager' AND delete_date IS NULL;
 
 
 SELECT * from proj where EMP_ID=1001;
@@ -178,3 +180,7 @@ WHERE EMP_ID = 1001;
 SELECT proj.PROJ_ID, proj.proj_name, proj.total_ticket, proj.completed_ticket, proj.tickets_in_progress, proj.proj_status, proj.EMP_ID FROM proj INNER JOIN emp ON emp.EMP_ID = proj.EMP_ID where emp.status='Active'
 
 SELECT t.TICKET_ID , e.emp_name ,t.PROJ_ID, t.EMP_ID,t.ticket_status from ticket t inner join emp e on t.EMP_ID=e.EMP_ID WHERE e.MGR_ID=1001
+
+SELECT * FROM emp WHERE position = 'Project Manager' AND delete_date IS NULL AND status = 'Active'
+
+SELECT * FROM emp WHERE (position = 'Project Manager' OR position = 'HR Manager' OR position = 'President') AND delete_date IS NULL AND status = 'Active'
